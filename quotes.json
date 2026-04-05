@@ -197,6 +197,9 @@
 {"personLabel":"نجيب محفوظ","image":"https://upload.wikimedia.org/wikipedia/commons/6/66/Nagib_Mahfouz.jpg","description":"كاتب مصري (1911–2006)",
 "quotes": [
 
+]
+},
+
 {"personLabel":"جبران خليل جبران","image":"https://upload.wikimedia.org/wikipedia/commons/3/34/Kahlil_Gibran_1913.jpg","description":"شاعر من مدرسة المهجر عثماني أمريكي",
 "quotes": [
 
@@ -909,4 +912,5 @@
 
 ]
 }
+
 ]
