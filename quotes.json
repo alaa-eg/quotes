@@ -129,7 +129,7 @@
 ]
 },
 
-{"personLabel":"عمر بن الخطاب","image":"https://upload.wikimedia.org/wikipedia/commons/a/a3/Rashidun_Caliphs_Umar_ibn_Al-Khatt%C4%81b_-_%D8%B9%D9%8F%D9%85%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%91%D8%A7%D8%A8_%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86.svg","description":"ثاني الخُلفاء الرَّاشدين (حكم 13 – 23هـ / 634 – 644م)",
+{"personLabel":"عمر بن الخطاب","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Umar_al-Farooq_Masjid_an-Nabawi_Calligraphy.svg/960px-Umar_al-Farooq_Masjid_an-Nabawi_Calligraphy.svg.png","description":"ثاني الخُلفاء الرَّاشدين (حكم 13 – 23هـ / 634 – 644م)",
 "quotes": [
 "قال عمر رضي الله عنه لرجل هم بطلاق امرأته: لِمَ تطلقها؟ قال الرجل: لا أحبها فقال عمر: أو كلّ البيوت بنيت على الحب؟ فأين الرعاية والتذمم!؟",
 "لولا ثلاث لأحببت أن أكون قد لقيت الله: لولا أن أسير في سبيل الله عز وجل، ولولا أن أضع جبهتي لله، أو أجالس أقواماً ينتقون أطايب الحديث، كما ينتقون أطايب التمر",
@@ -194,375 +194,10 @@
 ]
 },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{"personLabel":"محمد الغزالي","image":"https://upload.wikimedia.org/wikipedia/ar/5/5a/Mohammad_alghazali.jpg","description":"داعية إسلامي مصري",
-"quotes": [
-
-]
-},
-
-{"personLabel":"الفارابي","image":"https://upload.wikimedia.org/wikipedia/commons/9/97/Farabi.jpg","description":"فيلسوف مسلم",
-"quotes": [
-
-]
-},
-
-{"personLabel":"فرانس كافكا","image":"https://upload.wikimedia.org/wikipedia/commons/2/26/Franz_Kafka%2C_1923.jpg","description":"كاتب تشيكي من براغ (1883–1924)",
-"quotes": [
-
-]
-},
-
-{"personLabel":"أفلاطون","image":"https://upload.wikimedia.org/wikipedia/commons/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg","description":"فيلسوف يوناني من القرن الرابع قبل الميلاد",
-"quotes": [
-
-]
-},
-
-{"personLabel":"نابليون بونابرت","image":"https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg","description":"قائد عسكري وإمبراطور فرنسي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"غادة السمان","description":"كاتبة سورية وأديبة دمشقية",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ألكسندر بوب","image":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Alexander_Pope_by_Michael_Dahl.jpg","description":"شاعر بريطاني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"كونفوشيوس","image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg","description":"فيلسوف صيني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"مارك توين","image":"https://upload.wikimedia.org/wikipedia/commons/3/31/MarkTwain.LOC.jpg","description":"كاتب أمريكي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"رالف والدو إمرسون","image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg","description":"فيلسوف وكاتب مقالات وشاعر أمريكي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"أنطون تشيخوف","image":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Anton_Chekhov_with_bow-tie_sepia_image.jpg","description":"كاتب مسرحي وروائي روسي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"رينيه ديكارت","image":"https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg","description":"فيلسوف فرنسي وعالم رياضيات وطبيعة",
-"quotes": [
-
-]
-},
-
-{"personLabel":"إيمانويل كانط","image":"https://upload.wikimedia.org/wikipedia/commons/2/22/Immanuel_Kant_-_Gemaelde_2.jpg","description":"فيلسوف ألماني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"جان جاك روسو","image":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg","description":"فيلسوف سويسري/ فرنسي بارز",
-"quotes": [
-
-]
-},
-
-{"personLabel":"مالكوم إكس","image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Malcolm_X_in_1964.jpg","description":"داعية إسلامي أمريكي، اشتهر باسم الحاج مالك الشباز، معروف بتاريخه للدفاع عن حقوق السود",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ابن رشد","image":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Statue_of_Averroes_in_C%C3%B3rdoba%2C_Spain.jpg","description":"فيلسوف وطبيب وفقيه وقاضي وفلكي وفيزيائي مسلم أندلسي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ماري كوري","image":"https://upload.wikimedia.org/wikipedia/commons/7/77/Marie_Curie_%281900%29_%28cropped%29.jpg","description":"عالمة كيمياء بولندية",
-"quotes": [
-
-]
-},
-
-{"personLabel":"باولو كويلو","image":"https://upload.wikimedia.org/wikipedia/commons/0/02/Paulo_Coelho%2C_June_2024.jpg","description":"كاتب وروائي وقاص برازيلي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"توفيق الحكيم","image":"https://upload.wikimedia.org/wikipedia/commons/0/07/Tawfiq_al-Hakim.jpg","description":"كاتب مصري",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ألبرت أينشتاين","image":"https://upload.wikimedia.org/wikipedia/commons/2/28/Albert_Einstein_Head_cleaned.jpg","description":"عالم فيزياء نظرية ألماني النشأة (1879–1955)",
-"quotes": [
-
-]
-},
-
-{"personLabel":"جون ستيوارت مل","image":"https://upload.wikimedia.org/wikipedia/commons/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg","description":"فيلسوف واقتصادي بريطاني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"أوبرا وينفري","image":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Oprah_Winfrey_2016.jpg","description":"سيدة أعمال ومقدم برامج حوارية وممثلة ومنتجة وكاتبة وفاعلة خير ومتبرعة أمريكية",
-"quotes": [
-
-]
-},
-
-{"personLabel":"مالك بن نبي","image":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Malek_Bennabi.png","description":"فيلسوف جزائري",
-"quotes": [
-
-]
-},
-
-{"personLabel":"شيشرون","image":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg","description":"فيلسوف روماني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"نيلسون مانديلا","image":"https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg","description":"سياسي وزعيم ثوري ورئيس جنوب أفريقي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"توماس جفرسون","image":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg","description":"الرئيس الثالث للولايات المتحدة الأمريكية",
-"quotes": [
-
-]
-},
-
-{"personLabel":"محمد علي","image":"https://upload.wikimedia.org/wikipedia/commons/3/33/Muhammad_Ali%2C_gtfy.00140.jpg","description":"ملاكم أمريكي (1942–2016)",
-"quotes": [
-
-]
-},
-
-{"personLabel":"غازي القصيبي","image":"https://upload.wikimedia.org/wikipedia/ar/b/bf/Labour_minister_ghazi_algosaibi.jpg","description":"شاعر وأديب وسفير دبلوماسي ووزير سعودي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"سقراط","image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg","description":"فيلسوف يوناني من القرن الخامس قبل الميلاد",
-"quotes": [
-
-]
-},
-
-{"personLabel":"أبو حامد الغزالي","image":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Al_Ghazali.png","description":"فيلسوف ومُتكلِّم وفقيه شافعي (450 – 505هـ / 1058 – 1111م)",
-"quotes": [
-
-]
-},
-
-{"personLabel":"إسحاق نيوتن","image":"https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg","description":"عالم فيزياء ورياضيات إنجليزي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"وليم شكسبير","image":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg","description":"كاتب مسرحي وشاعر إنجليزي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"لاوتزه","image":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Zhang_Lu-Laozi_Riding_an_Ox_%28cropped%29.jpg","description":"فيلسوف صيني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"أنيس منصور","image":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Anis_Mansour.jpg","description":"كاتب مصري",
-"quotes": [
-
-]
-},
-
-{"personLabel":"مصطفى صادق الرافعي","image":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Moustafa_El_Rafey.jpg","description":"أديب وشاعر مصري",
-"quotes": [
-
-]
-},
-
-{"personLabel":"نيكولا تسلا","image":"https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg","description":"مخترع وفيزيائي ومهندس كهربائي صربي أمريكي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"محمد بن إدريس الشافعي","image":"https://upload.wikimedia.org/wikipedia/commons/1/14/Muhammad_ibn_Idris_as-Shafii_Masjid_an-Nabawi_Calligraphy.svg","description":"ثالث الأئمة الأربعة ومؤسس المذهب الشافعي (150 – 204هـ / 767 – 820م)",
-"quotes": [
-
-]
-},
-
-{"personLabel":"بروس لي","image":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Bruce_Lee_1973_%28cropped%29.jpg","description":"فنان قتالي وممثل صيني أمريكي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"جبران خليل جبران","image":"https://upload.wikimedia.org/wikipedia/commons/3/34/Kahlil_Gibran_1913.jpg","description":"شاعر من مدرسة المهجر عثماني أمريكي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ابن سينا","image":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg","description":"طبيب وفيلسوف (370 – 428هـ / 980 – 1037م)",
-"quotes": [
-
-]
-},
-
-{"personLabel":"عبد الله بن المقفع","image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Ibn_al-Muqaffa%27%2C_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png","description":"كاتب ومفكر مسلم",
-"quotes": [
-
-]
-},
-
 {"personLabel":"نجيب محفوظ","image":"https://upload.wikimedia.org/wikipedia/commons/6/66/Nagib_Mahfouz.jpg","description":"كاتب مصري (1911–2006)",
 "quotes": [
 
-]
-},
-
-{"personLabel":"أحمد شوقي","image":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Ahmad_shawqy.jpg","description":"شاعر وكاتب مسرحي مصري من اصول كردي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ميخائيل نعيمة","image":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Mausol%C3%A9e_de_MIkhail_Na%C3%AFmy.jpg","description":"أديب لبناني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"أرسطو","image":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg","description":"فيلسوف وعالم موسوعي يوناني كلاسيكي من القرن الرابع قبل الميلاد",
-"quotes": [
-
-]
-},
-
-{"personLabel":"توماس إديسون","image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg","description":"رجل أعمال ومخترع أمريكي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"تشي جيفارا","image":"https://upload.wikimedia.org/wikipedia/commons/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg","description":"ثوري أرجنتيني ماركسي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"هيلين كيلر","image":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Helen_Keller_circa_1920_-_restored.jpg","description":"أديبة ومحاضرة وناشطة أمريكية",
-"quotes": [
-
-]
-},
-
-{"personLabel":"لويس باستور","image":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Louis_Pasteur_%281822_-_1895%29%2C_microbiologist_and_chemist_Wellcome_V0026980.jpg","description":"عالم كيميائي فرنسي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ونستون تشرشل","image":"https://upload.wikimedia.org/wikipedia/commons/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg","description":"رجل دولة وجندي وكاتب بريطاني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ستيف جوبز","image":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg","description":"رجل أعمال أمريكي ومؤسس مشارك لشركة أبل.",
-"quotes": [
-
-]
-},
-
-{"personLabel":"صلاح الدين الأيوبي","image":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg","description":"أوَّل سلاطين بني أيُّوب (حكم 569 – 588هـ / 1174 – 1193م)",
-"quotes": [
-
-]
-},
-
-{"personLabel":"ليو تولستوي","image":"https://upload.wikimedia.org/wikipedia/commons/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg","description":"من عمالقة الروائيين الروس ومصلح اجتماعي وداعية سلام ومفكر أخلاقي.",
-"quotes": [
-
-]
-},
-
-{"personLabel":"الطيب صالح","image":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Tayeb_saleh.jpg","description":"كاتب سوداني",
-"quotes": [
-
-]
-},
-
-{"personLabel":"عمر المختار","image":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Omar_Mukhtar_13.jpg","description":"قائد المقاومة السنوسية ضد الاحتلال الفاشي الإيطالي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"صمويل جونسون","image":"https://upload.wikimedia.org/wikipedia/commons/2/20/Samuel_Johnson_by_Joshua_Reynolds.jpg","description":"كاتب إنجليزي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"إرنست همينغوي","image":"https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg","description":"كاتب وصحفي أمريكي",
+{"personLabel":"جبران خليل جبران","image":"https://upload.wikimedia.org/wikipedia/commons/3/34/Kahlil_Gibran_1913.jpg","description":"شاعر من مدرسة المهجر عثماني أمريكي",
 "quotes": [
 
 ]
@@ -574,21 +209,51 @@
 ]
 },
 
-{"personLabel":"الإسكندر الأكبر","image":"https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg","description":"أحد ملوك مقدونيا الإغريق، ومن أشهر القادة العسكريين والفاتحين عبر التاريخ",
+{"personLabel":"طه حسين","image":"https://upload.wikimedia.org/wikipedia/commons/9/9a/TahaHussein.jpg","description":"كاتب مصري (عميد الأدب العربي) (1306–1393 هـ / 1889–1973م)",
 "quotes": [
-
-]
-},
-
-{"personLabel":"فرانسيس بيكون","image":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Somer_Francis_Bacon.jpg","description":"فيلسوف إنجليزي",
-"quotes": [
-
-]
-},
-
-{"personLabel":"هيرودوت","image":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg","description":"مؤرخ إغريقي",
-"quotes": [
-
+"قد يكون المرء غبياً في طبعه لكن الغباء غباء القلب",
+"فلنبتهل إلى الله في أن يبرئنا من علة الكلام الكثير، فلعلنا إن برئنا من هذه العلة أن نجد العزاء عن آلامنا وكوارثنا، في العمل الذي يزيل الآلام ، ويمحو الكوارث، ويجلي الغمرات",
+"دموع الحبقطرات من نهر في الجنة",
+"القوانين حين تشتد في مصادرة حرية الرأي لا تحمي الفضيلة وإنما تحمي الرذيلة وتخلي بينها وبين النفوس",
+"مصر خليقة أن يُحسب لها حساب حين ترضى، وأن يُحسب لها حساب حين تغضب، وأن يُحسب لها حساب حين تريد",
+"إياك والرضا عن نفسك فإنه يضطرك إلى الخمول، وإياك والعجب فإنه يورطك في الحمق، وإياك والغرور فإنه يظهر للناس كلهم نقائصك كلها ولا يخفيها إلا عليك",
+"الذين لا يعملون يؤذي نفوسهم أن يعمل الناس",
+"الأصدقاء ثلاث طبقات: طبقة كالغذاء لا نستغني عنه وطبقة كالدواء لا نحتاج إليه إلا أحيانا وطبقة كالداء لا نحتاج إليه أبدا",
+"إن الجامعة تتألف من طالب حر وأستاذ حر",
+"وهكذا جمعنا الزمان والمكان والشوق",
+"أما الزمان والمكان فلا ثبات لهما، وأما الشوق فلا يورث الا الحزن",
+"الحنين إلى الوطن خالد لا يدري أحد أحديث هو أم قديم",
+"ليس من الحق على الشاعر أن يقدم إليك فنه الرائع وأنت هادئ وادع مطمئن ناعم البال ، وإنما الحق عليك أن تجدّ كما جدّ ، وتتعب كما تعب ، وتشقى بالتماس الجمال كما شقي هو بعرض هذا الجمال",
+"الفلسفة هي مظهر الحياة العقلية القوية وهي وسيلة الانسان إلى أن يتصور الحقائق ويحكم عليها بعقله لا بخياله",
+"ويل لطالب العلم إن رضي عن نفسه",
+ "فإذا ابتسم الصبح وأشرق الضحى واستيقظت الحياة ذابت كل المروعات",
+"حذار فأننى لم أجد تجارة هى أربح من بيع الأحلام",
+"الأوطان تُبنى بالعلم والعمل في كل ميدان",
+"ما أعرف شيئاً يدفع النفس ولا سيما النفوس الناشئة إلى الحرية والإسراف فيها أحياناً كالأدب",
+"التاريخ سخيف لا خير فيه إن كان يعيد نفسه، لأن ذلك يدل على أنه لم يستطع للناس وعظاً ولا إصلاحاً",
+"مهما يبلغ الفقر بالناس، ومهما يثقل عليهم البؤس فإن في فطرتهم شيئاً من كرامة تحملهم على أن يجدوا حين يأكلون مما كسبت أيديهم لذة لا يجدونها حين يأكلون مما يُساق إليهم دون أن يكسبوه أو يحتالوا فيه",
+"اهداء كتاب الايام أهدي كتابي هذا للّذين لا يعملون، ويؤلمهم أن يعمل الآخرون",
+"ولكن المرأة لا تُغلب إلا إذا أحبّت، ولا تُقهر إلا إذا أرادت، ولا تُذعن إلا إذا رغبت في الإذعان",
+"الندم وحده هو الذي يطهر القلوب ويهيئ النفوس للتوبة النصوح",
+"قد يكون المرء غبياً في طبعه لكن الغباء غباء القلب",
+"محبة المعرفة لا تفترق عن الايمان",
+"أحسن المعرفة معرفتك لنفسك",
+"أحسن الأدب وقوفك عند حدك",
+"السعادة هي ذلك الاحساس الغريب الذي يراودنا حينما تشغلنا ظروف الحياة عن أن نكون أشقياء",
+"أن الحب لا يسأم ولا يمل ولا يعرف الفتور",
+"هذه هي الحياة أنك تتنازل عن متعك الواحدة بعد الأخرى حتى لا يبقي منها شيء وعندئذ تعلم أنه قد حان وقت الرحيل",
+"إياك والرضى عن نفسك فانه يضطرك إلى الخمول",
+"اياك والغرور فانه يظهر للناس كلهم نقائصك كلها ولا يخفيها الا عليك",
+"كم أتمنى أن يقرأ الكاتب أكثر مما يكتب",
+"وما عساك من القتل تجني غير الهدم والفناء",
+"ما أكثر ما أعجب من نفسي ، وما أسرع ما يستحيل هذا العجب إل سخرية منها أول الأمر ، ثم إلى رثاء وعطف عليها",
+"لمرض الذي لا أجد منه برءاً ، مرض التماس العلة والانتهاء إلى المصادر",
+"انتشار الوباء في غير مشقة وانتشار الفساد الخلقي وانتشار الرشوة وانتشار السرقة ، وتقطيع الصلات بين الناس ، وانتشار الظلمة في الضمائر والقلوب ، وانتشار اليأس حتى من روح الله، وانتشار الذلة والمسكنة والهوان، وانتشار الإذعان للظلم والاستسلام للعسف والانقياد للاستبداد والاستخفاف بالحرية والكرامة، والازدراء لكل ما يجعل الإنسان إنساناً فضلاً عن الازدراء لكل ما يجعل الإنسان إنساناً متحضراً ممتازاً كل هذه الآفات والمخازي ليس لها مصدر إلا هذا الشقاء",
+"الأكل فن من الفنون لا بد فيه من الروية واصطناع المهل والأناة",
+"لا أنكر الحياة الجاهلية وإنما أنكر أن يمثلها هذا الشعر الذي يسمونه الشعر الجاهلي",
+"الأمة الذليلة لا يمكن أن يكون لها شعر راق ، إلا في فن التضرع والاستعطاف",
+"الإنسان مفطور على حب البحث ، والرغبة في الاستطلاع لكن الحياة وأطوارها قد تصرفه عن مقتضى هذه الفطرة",
+"لا تنخدعوا لو كان للغة وزن في تقرير مصير الأمم ، لما كانت بلجيكا وسويسرا ولا أميركا ولا البرازيل ولا البرتغال"
 ]
 },
 
@@ -598,19 +263,31 @@
 ]
 },
 
-{"personLabel":"تشارلز ديكنز","image":"https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg","description":"روائي واديب انجليزي",
+{"personLabel":"ابن سينا","image":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg","description":"طبيب وفيلسوف (370 – 428هـ / 980 – 1037م)",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"غابرييل غارثيا ماركيث","image":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Garcia_Marquez.jpg","description":"كاتب كولومبي",
+{"personLabel":"ابن رشد","image":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Statue_of_Averroes_in_C%C3%B3rdoba%2C_Spain.jpg","description":"فيلسوف وطبيب وفقيه وقاضي وفلكي وفيزيائي مسلم أندلسي",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"سفيان الثوري","image":"https://upload.wikimedia.org/wikipedia/commons/8/8f/%D8%B3%D9%81%D9%8A%D8%A7%D9%86_%D8%A8%D9%86_%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A.png","description":"مُحدِّث وفقيه ومفسر (97 – 161هـ / 716 – 778م)",
+{"personLabel":"جلال الدين الرومي","image":"https://upload.wikimedia.org/wikipedia/commons/8/81/Mevlana-celaleddin-i-rumi-1.jpg","description":"شاعر ومتصوف مسلم",
+"quotes": [
+
+]
+},
+
+{"personLabel":"صلاح الدين الأيوبي","image":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg","description":"أوَّل سلاطين بني أيُّوب (حكم 569 – 588هـ / 1174 – 1193م)",
+"quotes": [
+
+]
+},
+
+{"personLabel":"عمر المختار","image":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Omar_Mukhtar_13.jpg","description":"قائد المقاومة السنوسية ضد الاحتلال الفاشي الإيطالي",
 "quotes": [
 
 ]
@@ -628,47 +305,84 @@
 ]
 },
 
-{"personLabel":"وارن بافت","image":"https://upload.wikimedia.org/wikipedia/commons/5/51/Warren_Buffett_KU_Visit.jpg","description":"رجل أعمال ومستثمر أمريكي",
+{"personLabel":"أحمد شوقي","image":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Ahmad_shawqy.jpg","description":"شاعر وكاتب مسرحي مصري من اصول كردي",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"بليز باسكال","image":"https://upload.wikimedia.org/wikipedia/commons/9/98/Blaise_Pascal_Versailles.JPG","description":"عالم رياضيات وفيلسوف فرنسي",
+{"personLabel":"غازي القصيبي","image":"https://upload.wikimedia.org/wikipedia/ar/b/bf/Labour_minister_ghazi_algosaibi.jpg","description":"شاعر وأديب وسفير دبلوماسي ووزير سعودي",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"الفضيل بن عياض","image":"https://upload.wikimedia.org/wikipedia/commons/0/04/%D8%A7%D9%84%D9%81%D8%B6%D9%8A%D9%84_%D8%A8%D9%86_%D8%B9%D9%8A%D8%A7%D8%B6.png","description":"عالم مسلم",
+{"personLabel":"مالك بن نبي","image":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Malek_Bennabi.png","description":"فيلسوف جزائري",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"جلال الدين الرومي","image":"https://upload.wikimedia.org/wikipedia/commons/8/81/Mevlana-celaleddin-i-rumi-1.jpg","description":"شاعر ومتصوف مسلم",
+{"personLabel":"محمد علي","image":"https://upload.wikimedia.org/wikipedia/commons/3/33/Muhammad_Ali%2C_gtfy.00140.jpg","description":"ملاكم أمريكي (1942–2016)",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"فيودور دوستويفسكي","image":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg","description":"كاتب روسي (1821-1881)",
+{"personLabel":"سقراط","image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg","description":"فيلسوف يوناني من القرن الخامس قبل الميلاد",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"ابن قيم الجوزية","image":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Ibnalqayyim.png","description":"مُفسِّر ومُحدِّث وفقيه حنبلي (691 – 751هـ – 1292 – 1350م)",
+{"personLabel":"أرسطو","image":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg","description":"فيلسوف وعالم موسوعي يوناني كلاسيكي من القرن الرابع قبل الميلاد",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"فكتور هيغو","image":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg","description":"روائي وشاعر وكاتب مسرحي فرنسي",
+{"personLabel":"نيكولا تسلا","image":"https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg","description":"مخترع وفيزيائي ومهندس كهربائي صربي أمريكي",
 "quotes": [
 
 ]
 },
+
+{"personLabel":"نيلسون مانديلا","image":"https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg","description":"سياسي وزعيم ثوري ورئيس جنوب أفريقي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"نابليون بونابرت","image":"https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg","description":"قائد عسكري وإمبراطور فرنسي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"ستيف جوبز","image":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg","description":"رجل أعمال أمريكي ومؤسس مشارك لشركة أبل.",
+"quotes": [
+
+]
+},
+
+{"personLabel":"ماري كوري","image":"https://upload.wikimedia.org/wikipedia/commons/7/77/Marie_Curie_%281900%29_%28cropped%29.jpg","description":"عالمة كيمياء بولندية",
+"quotes": [
+
+]
+},
+
+{"personLabel":"هيلين كيلر","image":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Helen_Keller_circa_1920_-_restored.jpg","description":"أديبة ومحاضرة وناشطة أمريكية",
+"quotes": [
+
+]
+},
+
+{"personLabel":"الفارابي","image":"https://upload.wikimedia.org/wikipedia/commons/9/97/Farabi.jpg","description":"فيلسوف مسلم",
+"quotes": [
+
+]
+},
+
 
 {"personLabel":"علي بن أبي طالب","image":"https://upload.wikimedia.org/wikipedia/commons/a/a7/The_ten_to_whom_Paradise_was_promised_%28Ali%29.png","description":"رابع الخُلفاء الرَّاشدين عند أهل السنة (حكم 35 – 40هـ / 656 – 661م) ",
 "quotes": [
@@ -869,19 +583,121 @@
 ]
 },
 
-{"personLabel":"أبراهام لينكون","image":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg","description":"الرئيس السادس عشر للولايات المتحدة",
+{"personLabel":"ابن قيم الجوزية","image":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Ibnalqayyim.png","description":"مُفسِّر ومُحدِّث وفقيه حنبلي (691 – 751هـ – 1292 – 1350م)",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"إريك هوفر","image":"https://upload.wikimedia.org/wikipedia/commons/3/38/Eric_Hoffer_in_LBJ_Oval_Office.jpg","description":"فيلسوف أمريكي",
+{"personLabel":"توفيق الحكيم","image":"https://upload.wikimedia.org/wikipedia/commons/0/07/Tawfiq_al-Hakim.jpg","description":"كاتب مصري",
 "quotes": [
 
 ]
 },
 
-{"personLabel":"أدهم شرقاوي","description":"كاتب فلسطيني",
+{"personLabel":"مصطفى صادق الرافعي","image":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Moustafa_El_Rafey.jpg","description":"أديب وشاعر مصري",
+"quotes": [
+
+]
+},
+
+{"personLabel":"ميخائيل نعيمة","image":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Mausol%C3%A9e_de_MIkhail_Na%C3%AFmy.jpg","description":"أديب لبناني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"غادة السمان","description":"كاتبة سورية وأديبة دمشقية",
+"quotes": [
+
+]
+},
+
+{"personLabel":"أنيس منصور","image":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Anis_Mansour.jpg","description":"كاتب مصري",
+"quotes": [
+
+]
+},
+
+{"personLabel":"الطيب صالح","image":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Tayeb_saleh.jpg","description":"كاتب سوداني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"محمد الغزالي","image":"https://upload.wikimedia.org/wikipedia/ar/5/5a/Mohammad_alghazali.jpg","description":"داعية إسلامي مصري",
+"quotes": [
+
+]
+},
+
+{"personLabel":"عبد الله بن المقفع","image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Ibn_al-Muqaffa%27%2C_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png","description":"كاتب ومفكر مسلم",
+"quotes": [
+
+]
+},
+
+{"personLabel":"أبو حامد الغزالي","image":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Al_Ghazali.png","description":"فيلسوف ومُتكلِّم وفقيه شافعي (450 – 505هـ / 1058 – 1111م)",
+"quotes": [
+
+]
+},
+
+{"personLabel":"سفيان الثوري","image":"https://upload.wikimedia.org/wikipedia/commons/8/8f/%D8%B3%D9%81%D9%8A%D8%A7%D9%86_%D8%A8%D9%86_%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A.png","description":"مُحدِّث وفقيه ومفسر (97 – 161هـ / 716 – 778م)",
+"quotes": [
+
+]
+},
+
+{"personLabel":"الفضيل بن عياض","image":"https://upload.wikimedia.org/wikipedia/commons/0/04/%D8%A7%D9%84%D9%81%D8%B6%D9%8A%D9%84_%D8%A8%D9%86_%D8%B9%D9%8A%D8%A7%D8%B6.png","description":"عالم مسلم",
+"quotes": [
+
+]
+},
+
+{"personLabel":"أفلاطون","image":"https://upload.wikimedia.org/wikipedia/commons/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg","description":"فيلسوف يوناني من القرن الرابع قبل الميلاد",
+"quotes": [
+
+]
+},
+
+{"personLabel":"جان جاك روسو","image":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg","description":"فيلسوف سويسري/ فرنسي بارز",
+"quotes": [
+
+]
+},
+
+{"personLabel":"رينيه ديكارت","image":"https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg","description":"فيلسوف فرنسي وعالم رياضيات وطبيعة",
+"quotes": [
+
+]
+},
+
+{"personLabel":"وليم شكسبير","image":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg","description":"كاتب مسرحي وشاعر إنجليزي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"مارك توين","image":"https://upload.wikimedia.org/wikipedia/commons/3/31/MarkTwain.LOC.jpg","description":"كاتب أمريكي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"ليو تولستوي","image":"https://upload.wikimedia.org/wikipedia/commons/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg","description":"من عمالقة الروائيين الروس ومصلح اجتماعي وداعية سلام ومفكر أخلاقي.",
+"quotes": [
+
+]
+},
+
+{"personLabel":"فيودور دوستويفسكي","image":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg","description":"كاتب روسي (1821-1881)",
+"quotes": [
+
+]
+},
+
+{"personLabel":"باولو كويلو","image":"https://upload.wikimedia.org/wikipedia/commons/0/02/Paulo_Coelho%2C_June_2024.jpg","description":"كاتب وروائي وقاص برازيلي",
 "quotes": [
 
 ]
@@ -893,51 +709,204 @@
 ]
 },
 
-{"personLabel":"طه حسين","image":"https://upload.wikimedia.org/wikipedia/commons/9/9a/TahaHussein.jpg","description":"كاتب مصري (عميد الأدب العربي) (1306–1393 هـ / 1889–1973م)",
+{"personLabel":"تشارلز ديكنز","image":"https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg","description":"روائي واديب انجليزي",
 "quotes": [
-"قد يكون المرء غبياً في طبعه لكن الغباء غباء القلب",
-"فلنبتهل إلى الله في أن يبرئنا من علة الكلام الكثير، فلعلنا إن برئنا من هذه العلة أن نجد العزاء عن آلامنا وكوارثنا، في العمل الذي يزيل الآلام ، ويمحو الكوارث، ويجلي الغمرات",
-"دموع الحبقطرات من نهر في الجنة",
-"القوانين حين تشتد في مصادرة حرية الرأي لا تحمي الفضيلة وإنما تحمي الرذيلة وتخلي بينها وبين النفوس",
-"مصر خليقة أن يُحسب لها حساب حين ترضى، وأن يُحسب لها حساب حين تغضب، وأن يُحسب لها حساب حين تريد",
-"إياك والرضا عن نفسك فإنه يضطرك إلى الخمول، وإياك والعجب فإنه يورطك في الحمق، وإياك والغرور فإنه يظهر للناس كلهم نقائصك كلها ولا يخفيها إلا عليك",
-"الذين لا يعملون يؤذي نفوسهم أن يعمل الناس",
-"الأصدقاء ثلاث طبقات: طبقة كالغذاء لا نستغني عنه وطبقة كالدواء لا نحتاج إليه إلا أحيانا وطبقة كالداء لا نحتاج إليه أبدا",
-"إن الجامعة تتألف من طالب حر وأستاذ حر",
-"وهكذا جمعنا الزمان والمكان والشوق",
-"أما الزمان والمكان فلا ثبات لهما، وأما الشوق فلا يورث الا الحزن",
-"الحنين إلى الوطن خالد لا يدري أحد أحديث هو أم قديم",
-"ليس من الحق على الشاعر أن يقدم إليك فنه الرائع وأنت هادئ وادع مطمئن ناعم البال ، وإنما الحق عليك أن تجدّ كما جدّ ، وتتعب كما تعب ، وتشقى بالتماس الجمال كما شقي هو بعرض هذا الجمال",
-"الفلسفة هي مظهر الحياة العقلية القوية وهي وسيلة الانسان إلى أن يتصور الحقائق ويحكم عليها بعقله لا بخياله",
-"ويل لطالب العلم إن رضي عن نفسه",
- "فإذا ابتسم الصبح وأشرق الضحى واستيقظت الحياة ذابت كل المروعات",
-"حذار فأننى لم أجد تجارة هى أربح من بيع الأحلام",
-"الأوطان تُبنى بالعلم والعمل في كل ميدان",
-"ما أعرف شيئاً يدفع النفس ولا سيما النفوس الناشئة إلى الحرية والإسراف فيها أحياناً كالأدب",
-"التاريخ سخيف لا خير فيه إن كان يعيد نفسه، لأن ذلك يدل على أنه لم يستطع للناس وعظاً ولا إصلاحاً",
-"مهما يبلغ الفقر بالناس، ومهما يثقل عليهم البؤس فإن في فطرتهم شيئاً من كرامة تحملهم على أن يجدوا حين يأكلون مما كسبت أيديهم لذة لا يجدونها حين يأكلون مما يُساق إليهم دون أن يكسبوه أو يحتالوا فيه",
-"اهداء كتاب الايام أهدي كتابي هذا للّذين لا يعملون، ويؤلمهم أن يعمل الآخرون",
-"ولكن المرأة لا تُغلب إلا إذا أحبّت، ولا تُقهر إلا إذا أرادت، ولا تُذعن إلا إذا رغبت في الإذعان",
-"الندم وحده هو الذي يطهر القلوب ويهيئ النفوس للتوبة النصوح",
-"قد يكون المرء غبياً في طبعه لكن الغباء غباء القلب",
-"محبة المعرفة لا تفترق عن الايمان",
-"أحسن المعرفة معرفتك لنفسك",
-"أحسن الأدب وقوفك عند حدك",
-"السعادة هي ذلك الاحساس الغريب الذي يراودنا حينما تشغلنا ظروف الحياة عن أن نكون أشقياء",
-"أن الحب لا يسأم ولا يمل ولا يعرف الفتور",
-"هذه هي الحياة أنك تتنازل عن متعك الواحدة بعد الأخرى حتى لا يبقي منها شيء وعندئذ تعلم أنه قد حان وقت الرحيل",
-"إياك والرضى عن نفسك فانه يضطرك إلى الخمول",
-"اياك والغرور فانه يظهر للناس كلهم نقائصك كلها ولا يخفيها الا عليك",
-"كم أتمنى أن يقرأ الكاتب أكثر مما يكتب",
-"وما عساك من القتل تجني غير الهدم والفناء",
-"ما أكثر ما أعجب من نفسي ، وما أسرع ما يستحيل هذا العجب إل سخرية منها أول الأمر ، ثم إلى رثاء وعطف عليها",
-"لمرض الذي لا أجد منه برءاً ، مرض التماس العلة والانتهاء إلى المصادر",
-"انتشار الوباء في غير مشقة وانتشار الفساد الخلقي وانتشار الرشوة وانتشار السرقة ، وتقطيع الصلات بين الناس ، وانتشار الظلمة في الضمائر والقلوب ، وانتشار اليأس حتى من روح الله، وانتشار الذلة والمسكنة والهوان، وانتشار الإذعان للظلم والاستسلام للعسف والانقياد للاستبداد والاستخفاف بالحرية والكرامة، والازدراء لكل ما يجعل الإنسان إنساناً فضلاً عن الازدراء لكل ما يجعل الإنسان إنساناً متحضراً ممتازاً كل هذه الآفات والمخازي ليس لها مصدر إلا هذا الشقاء",
-"الأكل فن من الفنون لا بد فيه من الروية واصطناع المهل والأناة",
-"لا أنكر الحياة الجاهلية وإنما أنكر أن يمثلها هذا الشعر الذي يسمونه الشعر الجاهلي",
-"الأمة الذليلة لا يمكن أن يكون لها شعر راق ، إلا في فن التضرع والاستعطاف",
-"الإنسان مفطور على حب البحث ، والرغبة في الاستطلاع لكن الحياة وأطوارها قد تصرفه عن مقتضى هذه الفطرة",
-"لا تنخدعوا لو كان للغة وزن في تقرير مصير الأمم ، لما كانت بلجيكا وسويسرا ولا أميركا ولا البرازيل ولا البرتغال"
+
+]
+},
+
+{"personLabel":"ألبرت أينشتاين","image":"https://upload.wikimedia.org/wikipedia/commons/2/28/Albert_Einstein_Head_cleaned.jpg","description":"عالم فيزياء نظرية ألماني النشأة (1879–1955)",
+"quotes": [
+
+]
+},
+
+{"personLabel":"توماس إديسون","image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg","description":"رجل أعمال ومخترع أمريكي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"ونستون تشرشل","image":"https://upload.wikimedia.org/wikipedia/commons/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg","description":"رجل دولة وجندي وكاتب بريطاني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"الإسكندر الأكبر","image":"https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg","description":"أحد ملوك مقدونيا الإغريق، ومن أشهر القادة العسكريين والفاتحين عبر التاريخ",
+"quotes": [
+
+]
+},
+
+{"personLabel":"أوبرا وينفري","image":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Oprah_Winfrey_2016.jpg","description":"سيدة أعمال ومقدم برامج حوارية وممثلة ومنتجة وكاتبة وفاعلة خير ومتبرعة أمريكية",
+"quotes": [
+
+]
+},
+
+{"personLabel":"بروس لي","image":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Bruce_Lee_1973_%28cropped%29.jpg","description":"فنان قتالي وممثل صيني أمريكي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"وارن بافت","image":"https://upload.wikimedia.org/wikipedia/commons/5/51/Warren_Buffett_KU_Visit.jpg","description":"رجل أعمال ومستثمر أمريكي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"فرانسيس بيكون","image":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Somer_Francis_Bacon.jpg","description":"فيلسوف إنجليزي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"أدهم شرقاوي","description":"كاتب فلسطيني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"توماس جفرسون","image":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg","description":"الرئيس الثالث للولايات المتحدة الأمريكية",
+"quotes": [
+
+]
+},
+
+{"personLabel":"هيرودوت","image":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg","description":"مؤرخ إغريقي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"لويس باستور","image":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Louis_Pasteur_%281822_-_1895%29%2C_microbiologist_and_chemist_Wellcome_V0026980.jpg","description":"عالم كيميائي فرنسي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"كونفوشيوس","image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg","description":"فيلسوف صيني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"إسحاق نيوتن","image":"https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg","description":"عالم فيزياء ورياضيات إنجليزي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"أنطون تشيخوف","image":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Anton_Chekhov_with_bow-tie_sepia_image.jpg","description":"كاتب مسرحي وروائي روسي",
+"quotes": [
+
+]
+},
+
+
+{"personLabel":"محمد بن إدريس الشافعي","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Muhammad_ibn_Idris_as-Shafii_Masjid_an-Nabawi_Calligraphy.svg/960px-Muhammad_ibn_Idris_as-Shafii_Masjid_an-Nabawi_Calligraphy.svg.png","description":"ثالث الأئمة الأربعة ومؤسس المذهب الشافعي (150 – 204هـ / 767 – 820م)",
+"quotes": [
+
+]
+},
+
+{"personLabel":"إيمانويل كانط","image":"https://upload.wikimedia.org/wikipedia/commons/2/22/Immanuel_Kant_-_Gemaelde_2.jpg","description":"فيلسوف ألماني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"إرنست همينغوي","image":"https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg","description":"كاتب وصحفي أمريكي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"فكتور هيغو","image":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg","description":"روائي وشاعر وكاتب مسرحي فرنسي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"تشي جيفارا","image":"https://upload.wikimedia.org/wikipedia/commons/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg","description":"ثوري أرجنتيني ماركسي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"شيشرون","image":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg","description":"فيلسوف روماني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"رالف والدو إمرسون","image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg","description":"فيلسوف وكاتب مقالات وشاعر أمريكي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"جون ستيوارت مل","image":"https://upload.wikimedia.org/wikipedia/commons/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg","description":"فيلسوف واقتصادي بريطاني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"إريك هوفر","image":"https://upload.wikimedia.org/wikipedia/commons/3/38/Eric_Hoffer_in_LBJ_Oval_Office.jpg","description":"فيلسوف أمريكي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"بليز باسكال","image":"https://upload.wikimedia.org/wikipedia/commons/9/98/Blaise_Pascal_Versailles.JPG","description":"عالم رياضيات وفيلسوف فرنسي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"لاوتزه","image":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Zhang_Lu-Laozi_Riding_an_Ox_%28cropped%29.jpg","description":"فيلسوف صيني",
+"quotes": [
+
+]
+},
+
+
+
+{"personLabel":"فرانس كافكا","image":"https://upload.wikimedia.org/wikipedia/commons/2/26/Franz_Kafka%2C_1923.jpg","description":"كاتب تشيكي من براغ (1883–1924)",
+"quotes": [
+
+]
+},
+
+{"personLabel":"غابرييل غارثيا ماركيث","image":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Garcia_Marquez.jpg","description":"كاتب كولومبي",
+"quotes": [
+
+]
+},
+
+{"personLabel":"أبراهام لينكون","image":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg","description":"الرئيس السادس عشر للولايات المتحدة",
+"quotes": [
+
+]
+},
+
+{"personLabel":"مالكوم إكس","image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Malcolm_X_in_1964.jpg","description":"داعية إسلامي أمريكي، اشتهر باسم الحاج مالك الشباز، معروف بتاريخه للدفاع عن حقوق السود",
+"quotes": [
+
+]
+},
+
+{"personLabel":"ألكسندر بوب","image":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Alexander_Pope_by_Michael_Dahl.jpg","description":"شاعر بريطاني",
+"quotes": [
+
+]
+},
+
+{"personLabel":"صمويل جونسون","image":"https://upload.wikimedia.org/wikipedia/commons/2/20/Samuel_Johnson_by_Joshua_Reynolds.jpg","description":"كاتب إنجليزي",
+"quotes": [
+
 ]
 }
 
